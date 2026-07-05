@@ -1,0 +1,6 @@
+{
+  "name": "SurpriseVerse",
+  "description": "A premium, emotional SaaS platform to create custom interactive surprise landing pages for your loved ones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
